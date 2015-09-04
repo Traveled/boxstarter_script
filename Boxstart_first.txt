@@ -1,0 +1,3 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions -Enable-RemoteDesktop -Disable-UAC
+Set-TaskbarOptions -Size Small 
+cinst -y -pre 7zip vlc no-ip-duc classic-shell mpchc filebot notepadplusplus ccleaner ccenhancer mremoteng sumatrapdf.install clover teamviewer firefox xnview filezilla speedfan usbit jre8 wincdemu imgburn transgui as-ssd flashplayerplugin putty libreoffice steam openttd blobby2 pokerth launchbox Hedgewars hadouken
